@@ -3,7 +3,7 @@
     name = Andrew Crozier
     email = wacrozier@gmail.com
 [core]
-    excludesfile = ~/.gitignore
+    excludesfile = ~/.config/git/ignore
 [fetch]
     prune = true
 [push]
